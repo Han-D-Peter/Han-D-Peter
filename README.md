@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-EAD41D?style=flat-square&logo=JAVASCRIPT&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-EAD41D?style=plastic&logo=JAVASCRIPT&logoColor=white"/></a>
 <!--
 **Han-D-Peter/Han-D-Peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/HTML-ES6+-CD3713?logo=HTML5"/>
-<img src="https://img.shields.io/badge/CSS-ES6+-176CAD?logo=CSS3"/>
+<img src="https://img.shields.io/badge/HTML-5.0+-CD3713?logo=HTML5"/>
+<img src="https://img.shields.io/badge/CSS-3.0+-176CAD?logo=CSS3"/>
 <img src="https://img.shields.io/badge/javascript-ES6+-EAD41D?logo=javascript"/>
 
 
